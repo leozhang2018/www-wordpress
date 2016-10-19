@@ -34,12 +34,12 @@ var dist = {
 
 
 gulp.task('clean', function() {
-    return gulp.src('dist/**', { read: false })
+    return gulp.src('dist/**/*', { read: false })
         .pipe(rm())
 })
 
 gulp.task('deploy-clean', function() {
-    return gulp.src('deploy/**', { read: false })
+    return gulp.src('deploy/**/*', { read: false })
         .pipe(rm())
 })
 
