@@ -45,7 +45,7 @@
     <section class="content content-cooperation-form">
         <div class="center">
             <h2 id="section-1">填写合作申请表格</h2>
-            <p class="section-text section-text-cooperation">合作请联系 <a href="mailto:marketing@qiniu.com">marketing@qiniu.com</a>。</p>
+            <p class="section-text section-text-cooperation">目前表单填写功能暂未上线，合作请直接联系 <a href="mailto:marketing@qiniu.com">marketing@qiniu.com</a>。</p>
             <div class="page-content cooperation-form-wrap">
                 <?php the_content();?>
             </div>
