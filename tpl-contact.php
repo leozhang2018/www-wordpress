@@ -20,11 +20,11 @@
                             </li>
                             <li>
                                 <h6>市场合作</h6>
-                                <a href="mailto:sales@qiniu.com">marketing@qiniu.com</a>
+                                <a href="mailto:marketing@qiniu.com">marketing@qiniu.com</a>
                             </li>
                             <li>
                                 <h6>技术支持</h6>
-                                <a href="mailto:sales@qiniu.com">support@qiniu.com</a>
+                                <a href="mailto:support@qiniu.com">support@qiniu.com</a>
                             </li>
                         </ul>
                     </div>
