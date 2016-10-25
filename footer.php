@@ -22,6 +22,9 @@
                 <li><a href="/service-agreement">SLA 协议</a></li>
                 <li class="last"><a href="https://status.qiniu.com/">健康状态</a></li>
             </ul>
+            <div class="cloud-verify">
+              <a target="_blank" rel="noopener" href="http://www.dca.org.cn/" class="verify-logo"></a>
+            </div>
         </div>
         <div class="web-record"><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31011502000961" target="_blank">沪公网安备 31011502000961 号</a><a href="http://www.miitbeian.gov.cn/" target="_blank">沪 ICP 备 11037377 号-5</a></div>
     </div>

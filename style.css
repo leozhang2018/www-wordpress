@@ -3666,7 +3666,17 @@ a.logo-footer {
     margin-top: 25px;
     padding-top: 36px
 }
-
+.footer-legal .cloud-verify {
+    float: right;
+}
+.footer-legal .cloud-verify .verify-logo {
+    display: block;
+    width: 30px;
+    height: 35px;
+    background-image: url(images/kexinyun.png);
+    background-repeat: no-repeat;
+    background-size: 30px 35px;
+}
 .copyright {
     float: left;
     margin-right: 30px
