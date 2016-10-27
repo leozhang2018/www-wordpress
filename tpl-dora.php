@@ -164,7 +164,7 @@
                     </li>
                     <li>
                         <img src="<?php bloginfo('template_url');?>/images/pagelinks/icon-product-price.png" alt="产品价格" />
-                        <a href="/price">产品价格</a>
+                        <a href="/pricing">产品价格</a>
                     </li>
                 </ul>
              </div>
