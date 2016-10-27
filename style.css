@@ -3666,9 +3666,11 @@ a.logo-footer {
     margin-top: 25px;
     padding-top: 36px
 }
+
 .footer-legal .cloud-verify {
     float: right;
 }
+
 .footer-legal .cloud-verify .verify-logo {
     display: block;
     width: 30px;
@@ -3677,6 +3679,7 @@ a.logo-footer {
     background-repeat: no-repeat;
     background-size: 30px 35px;
 }
+
 .copyright {
     float: left;
     margin-right: 30px
@@ -3709,7 +3712,7 @@ ul.footer-legal-links li a {
 }
 
 .web-record {
-    margin-top: 23px
+    margin-top: 8px
 }
 
 .web-record a {
