@@ -12,13 +12,17 @@
         <!--product-pricing star-->
         <section class="content content-pricing tabs">
             <ul class="tab-pricing">
-                <li><a href="#tab-content-section-1" class="kodo">对象存储</a></li>
-                <li><a href="#tab-content-section-2" class="pili">直播云</a></li>
+                <li><a href="#tab-content-section-1" class="pili">直播云</a></li>
+                <li><a href="#tab-content-section-2" class="kodo">对象存储</a></li>
                 <li><a href="#tab-content-section-3" class="fusion">融合 CDN</a></li>
                 <li><a href="#tab-content-section-4" class="dora">数据处理</a></li>
             </ul>
             <div class="tab-content tab-content-pricing">
                 <section id="tab-content-section-1">
+                    <p>服务价格等详细信息您可以联系：<a href="mailto:sales@qiniu.com">sales@qiniu.com</a>，或者直接登录您的七牛账号选择申请开通直播服务，会有专人与您联系。</p>
+                </section>
+
+                <section id="tab-content-section-2">
                     <table width="1060" border="0" cellpadding="0" cellspacing="0" class="pricing-table">
                         <tr>
                             <th width="340">名目</th><th width="360">阶梯</th><th>价格</th>
@@ -75,9 +79,7 @@
                     </table>
                     <p>本表格只包含对象存储相关的价格，HTTP 和 HTTPS 下载流量等价格请到「融合 CDN」查看</p>
                 </section>
-                <section id="tab-content-section-2">
-                    <p>服务价格等详细信息您可以联系：<a href="mailto:sales@qiniu.com">sales@qiniu.com</a>，或者直接登录您的七牛账号选择申请开通直播服务，会有专人与您联系。</p>
-                </section>
+
                 <section id="tab-content-section-3">
                     <table width="1060" border="0" cellpadding="0" cellspacing="0" class="pricing-table">
                         <tr>
