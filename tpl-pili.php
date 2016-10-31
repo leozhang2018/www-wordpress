@@ -4,8 +4,8 @@
             <nav class="select-products">
                 <a class="all-products">更多产品</a>
                 <ul class="all-products-sub">
-                    <li><a href="/products/kodo" class="kodo">对象存储</a></li>
                     <li><a href="/products/pili" class="pili">直播云</a></li>
+                    <li><a href="/products/kodo" class="kodo">对象存储</a></li>
                     <li><a href="/products/fusion" class="fusion">融合 CDN</a></li>
                     <li><a href="/products/dora" class="dora">数据处理</a></li>
                 </ul>
