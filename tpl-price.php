@@ -73,6 +73,7 @@
                         </tr>
                         <tr class="table-linesep"><td colspan="3"><div></div></td></tr>
                     </table>
+                    <p>本表格只包含对象存储相关的价格，HTTP 和 HTTPS 下载流量等价格请到「融合 CDN」查看</p>
                 </section>
                 <section id="tab-content-section-2">
                     <p>服务价格等详细信息您可以联系：<a href="mailto:sales@qiniu.com">sales@qiniu.com</a>，或者直接登录您的七牛账号选择申请开通直播服务，会有专人与您联系。</p>
