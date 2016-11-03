@@ -56,21 +56,21 @@
                         <tr class="table-linesep"><td colspan="3"><div></div></td></tr>
                         <tr>
                             <th rowspan="2">PUT / DELETE 请求</th>
-                            <td>第 0 千至 10 万</td>
+                            <td>第 0 千次至 10 万次</td>
                             <td>免费</td>
                         </tr>
                          <tr>
-                            <td>第 10 万以上</td>
+                            <td>第 10 万次以上</td>
                             <td>0.01 元/千次</td>
                         </tr>
                         <tr class="table-linesep"><td colspan="3"><div></div></td></tr>
                          <tr>
                             <th rowspan="2">GET 请求</th>
-                            <td>第 0 千至 100 万</td>
+                            <td>第 0 千次至 100 万次</td>
                             <td>免费</td>
                         </tr>
                          <tr>
-                            <td>第 100 万以上</td>
+                            <td>第 100 万次以上</td>
                             <td>0.001 元/千次</td>
                         </tr>
                         <tr class="table-linesep"><td colspan="3"><div></div></td></tr>
