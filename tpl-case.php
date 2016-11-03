@@ -35,7 +35,7 @@
                     <aside class="case-overview case-use-product">
                         <h4>使用产品</h4>
                         <ul>
-                            <li v-for="item in customerData[currentIdx].product_using ">{{ item.name }} <a href="http://{{ item.url }}">{{ item.url }}</a></li>
+                            <li v-for="item in customerData[currentIdx].product_using ">{{ item.name }} <a href="{{ item.url }}">{{ item.url }}</a></li>
                         </ul>
                     </aside>
                 </div>
