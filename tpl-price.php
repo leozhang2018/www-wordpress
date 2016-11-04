@@ -120,17 +120,18 @@
                 </section>
                 <section id="tab-content-section-4">
                     <table width="1060" border="0" cellpadding="0" cellspacing="0" class="pricing-table">
-                        <tr>
-                            <th width="270" rowspan="12" class="th-section">多媒体处理</th><th width="260">名目</th><th width="290">阶梯</th><th>价格</th>
+                       <tbody>
+                       <tr>
+                            <th width="270" rowspan="14" class="th-section">多媒体处理</th><th width="260">名目</th><th width="290">阶梯</th><th>价格</th>
                         </tr>
                         <tr class="table-linesep"><td colspan="4"><div></div></td></tr>
                         <tr>
-                            <th rowspan="5">音视频转码</th>
+                            <th rowspan="7">音视频转码</th>
                             <td>音频转码</td>
                             <td>0.0048 元/分钟</td>
                         </tr>
                         <tr>
-                            <td>视频转码 sd240（320x240）</td>
+                            <td>视频转码 sd240（ 320x240）</td>
                             <td>0.0057 元/分钟</td>
                         </tr>
                         <tr>
@@ -145,7 +146,14 @@
                             <td>视频转码 hd（1920x1080）</td>
                             <td>0.0324 元/分钟</td>
                         </tr>
-
+                        <tr>
+                            <td>视频转码 2K（2560x1440）</td>
+                            <td>0.06 元/分钟</td>
+                        </tr>
+                        <tr>
+                            <td>高清视频转码 4K（3840x2160）</td>
+                            <td>0.12 元/分钟</td>
+                        </tr>
                         <tr class="table-linesep"><td colspan="3"><div></div></td></tr>
                         <tr>
                             <th rowspan="4">其他请求</th>
@@ -165,6 +173,7 @@
                             <td>0.1 元/千次</td>
                         </tr>
                         <tr class="table-section-sep"><td colspan="4"><div></div></td></tr>
+                    </tbody>
                     </table>
                     <table width="1060" border="0" cellpadding="0" cellspacing="0" class="pricing-table">
                         <tr>
