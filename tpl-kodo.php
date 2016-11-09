@@ -26,7 +26,7 @@
             <div class="center">
 			 	<h1 class="h1-page-heading">高可用、高可靠、弹性伸缩<br/>的对象存储</h1>
 			 	<p class="hero-text">七牛云自主研发的分布式对象存储服务，提供高可靠、强安全、低成本、可扩展的存储服务，满足各类存储需求。您只需按实际使用的存储量付费。</p>
-			 	<a class="btn btn-normal" href="https://portal.qiniu.com/signin">立即使用</a>
+			 	<a class="btn btn-normal" href="https://portal.qiniu.com/signup">立即使用</a>
             </div>
 		</section>
         <!--hero end-->

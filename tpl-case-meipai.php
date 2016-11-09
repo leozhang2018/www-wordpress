@@ -51,7 +51,7 @@
 
     <div class="center also-become">
         <h2>也成为七牛的用户</h2>
-        <a class="also-become-btn" href="https://portal.qiniu.com/signin">立即使用七牛</a>
+        <a class="also-become-btn" href="https://portal.qiniu.com/signup">立即使用七牛</a>
     </div>
 </div>
 <?php get_footer();?>

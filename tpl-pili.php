@@ -27,7 +27,7 @@
 			<div class="center">
                 <h1 class="h1-page-heading">七牛直播云服务上线</h1>
                 <p class="hero-text">七牛在视频直播大爆发时代，推出专为直播平台打造的全球化直播流服务和端到端直播场景解决方案，完美解决视频企业的三高之痛：技术门槛高、成本高、卡顿延时率高。</p>
-                <a class="btn btn-normal" href="https://portal.qiniu.com/signin">立即使用</a>
+                <a class="btn btn-normal" href="https://portal.qiniu.com/signup">立即使用</a>
 			</div>
 		</section>
         <!--hero end-->

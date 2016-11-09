@@ -26,7 +26,7 @@
 			 <div class="center">
 			 	<h1 class="h1-page-heading" style="width:550px">可视化、智能调度、向单一 CDN 说再见的融合 CDN</h1>
 			 	<p class="hero-text">融合 CDN 是在传统 CDN 基础上实现的对数据网络加速进一步优化的融合管理服务。除了服务于音视频点播、文件、应用与 Web 加速，以及各类增值场景外，七牛融合 CDN 还通过全方位的 CDN 质量监控，以及智能易用的加速节点调度等功能，保障用户服务的连续性，提供稳定快速的网络访问质量。</p>
-			 	<a class="btn btn-normal" href="https://portal.qiniu.com/signin">立即使用</a>
+			 	<a class="btn btn-normal" href="https://portal.qiniu.com/signup">立即使用</a>
 			 </div>
 		</section>
         <!--hero end-->

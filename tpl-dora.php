@@ -26,7 +26,7 @@
 			<div class="center">
                 <h1 class="h1-page-heading">零运维、高可用、高性能的<br/>数据处理</h1>
                 <p class="hero-text">七牛数据处理平台针对海量数据，提供零运维、高可用、高性能的数据处理服务，日处理数近百亿次。除了提供基础数据处理，还基于容器技术打造了易扩展、易部署、高自由度的自定义数据处理接入平台，与七牛数据处理服务无缝兼容使用。</p>
-                <a class="btn btn-normal" href="https://portal.qiniu.com/signin">立即使用</a>
+                <a class="btn btn-normal" href="https://portal.qiniu.com/signup">立即使用</a>
 			</div>
 		</section>
         <!--hero end-->
