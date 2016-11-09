@@ -409,7 +409,7 @@
                     <h2 class="h2-section-heading">750 小时</h2>
                 </li>
             </ul>
-            <a class="btn btn-normal" href="https://portal.qiniu.com/signin">立即免费体验</a>
+            <a class="btn btn-normal" href="https://portal.qiniu.com/signup">立即免费体验</a>
         </div>
     </section>
 
