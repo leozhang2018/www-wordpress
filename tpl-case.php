@@ -163,6 +163,9 @@
                                 <li>
                                     <a href="http://www.yohobuy.com/" target="_blank"><img src="<?php bloginfo('template_url');?>/images/case/fashion/yoho.png" width="90" height="22" /></a>
                                 </li>
+                                <li>
+                                    <a href="http://www.0gow.cn/" target="_blank"><img src="<?php bloginfo('template_url');?>/images/case/fashion/nameitech.png" width="90" height="22" /></a>
+                                </li>
                             </ul>
                         </section>
                         <section id="tab-content-section-3">

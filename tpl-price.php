@@ -151,7 +151,7 @@
                             <td>0.06 元/分钟</td>
                         </tr>
                         <tr>
-                            <td>高清视频转码 4K（3840x2160）</td>
+                            <td>视频转码 4K（3840x2160）</td>
                             <td>0.12 元/分钟</td>
                         </tr>
                         <tr class="table-linesep"><td colspan="3"><div></div></td></tr>
