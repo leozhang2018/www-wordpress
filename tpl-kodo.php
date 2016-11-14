@@ -175,7 +175,7 @@
                     <li><a class="link" href="https://support.qiniu.com/hc/kb/article/70012/" target="_blank">如何将线上的数据热迁移到七牛云</a></li>
                     <li><a class="link" href="https://support.qiniu.com/hc/kb/article/69078/" target="_blank">如何上传 base64 编码图片到七牛云</a></li>
                     <li><a class="link" href="https://support.qiniu.com/hc/kb/article/68964/" target="_blank">如何获取存储文件的外链</a></li>
-                    <li><a class="link" href="tps://support.qiniu.com/hc/kb/article/68884/" target="_blank">什么是样式以及样式分隔符</a></li>
+                    <li><a class="link" href="https://support.qiniu.com/hc/kb/article/68884/" target="_blank">什么是样式以及样式分隔符</a></li>
                 </ul>
                 <ul class="ul-common-questions common-questions-right">
                     <li><a class="link" href="https://support.qiniu.com/hc/kb/article/112806/" target="_blank">公开空间和私有空间的区别是什么</a></li>

@@ -164,7 +164,10 @@
                                     <a href="http://www.yohobuy.com/" target="_blank"><img src="<?php bloginfo('template_url');?>/images/case/fashion/yoho.png" width="90" height="22" /></a>
                                 </li>
                                 <li>
-                                    <a href="http://www.0gow.cn/" target="_blank"><img src="<?php bloginfo('template_url');?>/images/case/fashion/nameitech.png" width="90" height="22" /></a>
+                                    <a href="http://www.0gow.cn/" target="_blank"><img src="<?php bloginfo('template_url');?>/images/case/fashion/nameitech.png" width="46" height="39" /></a>
+                                </li>
+                                <li>
+                                    <a href="http://shengri.cn" target="_blank"><img src="<?php bloginfo('template_url');?>/images/case/fashion/birthdaymanager.png" width="46" height="31" /></a>
                                 </li>
                             </ul>
                         </section>
