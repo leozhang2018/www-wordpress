@@ -17,7 +17,7 @@ add_theme_support( 'menus' );
 
 // 移除菜单的多余 CSS 选择器
 function my_css_attributes_filter($var) {
-	return is_array($var) ? array_intersect($var, array('current-menu-item','kodo','pili','fusion','dora','qcos','about','architect','blog','contact','cooperation','developer-center','eco','forum','join','link','qa-community','reports','support','cooperative-development')) : '';
+	return is_array($var) ? array_intersect($var, array('current-menu-item','kodo','pili','fusion','dora','qcos','about','architect','work-order','blog','contact','cooperation','developer-center','eco','forum','join','link','qa-community','reports','support','cooperative-development')) : '';
 }
 add_filter('nav_menu_css_class', 'my_css_attributes_filter', 100, 1);
 add_filter('nav_menu_item_id', 'my_css_attributes_filter', 100, 1);

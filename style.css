@@ -797,6 +797,11 @@ nav#top-menu ul li ul.sub-menu li.architect a {
     background: url(images/menu/architect.png) no-repeat top center;
 }
 
+nav#top-menu ul li ul.sub-menu li.work-order a {
+    padding-top: 43px;
+    background: url(images/menu/work-order.png) no-repeat top center;
+}
+
 nav#top-menu ul li ul.sub-menu li.blog a {
     padding-top: 43px;
     background: url(images/menu/blog.png) no-repeat top center;
@@ -896,6 +901,12 @@ li.about.current-menu-item a {
 nav#top-menu ul li ul.sub-menu li.architect a:hover,
 li.architect.current-menu-item a {
     background: url(images/menu/architect-h.png) no-repeat top center !important;
+    background-size: 24px 24px !important
+}
+
+nav#top-menu ul li ul.sub-menu li.work-order a:hover,
+li.architect.current-menu-item a {
+    background: url(images/menu/work-order.png) no-repeat top center !important;
     background-size: 24px 24px !important
 }
 
