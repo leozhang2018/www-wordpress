@@ -4,6 +4,16 @@
     <div class="slide-container">
         <div class="slide-wrapper">
             <div class="slide-content">
+                <div class="slide" data-blurred="<?php bloginfo('template_url');?>/images/slide/https_price.jpg">
+                    <h3>七牛云 HTTPS 流量降价</h3>
+                    <p>为配合用户对 HTTPS 流量的需求，七牛云将为用户提供更优质的服务及最具性价比的 HTTPS 流量，即日起 CDN 国内 HTTPS 流量降价。</p>
+                    <a class="btn btn-normal" href="http://www.qiniu.com/pricing?utm_campaign=https&utm_source=official" target="_blank">立即查看</a>
+                </div>
+                <div class="slide" data-blurred="<?php bloginfo('template_url');?>/images/slide/ssl_free.png">
+                    <h3>七牛云用户 SSL 证书免费</h3>
+                    <p>七牛云推出 SSL 证书管理服务，七牛云用户可在开发者平台免费、便捷地申请 DV SSL 证书。</p>
+                    <a class="btn btn-normal" href=" https://support.qiniu.com/hc/kb/article/223541?utm_campaign=https&utm_source=official" target="_blank">立即查看</a>
+                </div>
                 <div class="slide" data-blurred="<?php bloginfo('template_url');?>/images/slide/live.jpg">
                     <h3>七牛直播云服务上线</h3>
                     <p>基于全新的网络技术和直播场景化解决方案，一站式提供低延迟、高清流畅和首屏秒开的直播服务，助力视频企业轻松打造直播平台。</p>

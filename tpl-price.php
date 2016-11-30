@@ -102,14 +102,19 @@
                         </tr>
                         <tr class="table-linesep"><td colspan="4"><div></div></td></tr>
                         <tr>
-                            <th rowspan="2">HTTPS 下载流量</th>
-                            <td>第 0 GB 至 100 TB</td>
+                            <th rowspan="3">HTTPS 下载流量</th>
+                            <td>第 0 GB 至 10 TB  (含)</td>
                             <td>0.36 元/GB</td>
                             <td>0.58 元/GB</td>
                         </tr>
                          <tr>
-                            <td>第 100 TB 以上</td>
+                            <td>第 10 TB 至 100 TB (含)</td>
                             <td>0.32 元/GB</td>
+                            <td>0.58 元/GB</td>
+                        </tr>
+                        <tr>
+                            <td>第 100 TB 以上</td>
+                            <td>0.26 元/GB</td>
                             <td>0.54 元/GB</td>
                         </tr>
                         <tr class="table-linesep"><td colspan="4"><div></div></td></tr>
