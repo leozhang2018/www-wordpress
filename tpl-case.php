@@ -169,6 +169,12 @@
                                 <li>
                                     <a href="http://shengri.cn" target="_blank"><img src="<?php bloginfo('template_url');?>/images/case/fashion/birthdaymanager.png" width="46" height="31" /></a>
                                 </li>
+                                <li>
+                                    <a href="http://www.smarun.com/app.html" target="_blank"><img src="<?php bloginfo('template_url');?>/images/case/fashion/smarun.png" width="46" height="31" /></a>
+                                </li>
+                                <li>
+                                    <a href="http://www.sythealth.com/" target="_blank"><img src="<?php bloginfo('template_url');?>/images/case/fashion/sythealth.png" width="46" height="31" /></a>
+                                </li>
                             </ul>
                         </section>
                         <section id="tab-content-section-3">
