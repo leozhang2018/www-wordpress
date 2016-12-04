@@ -127,7 +127,7 @@
                     <table width="1060" border="0" cellpadding="0" cellspacing="0" class="pricing-table">
                        <tbody>
                        <tr>
-                            <th width="270" rowspan="14" class="th-section">多媒体处理</th><th width="260">名目</th><th width="290">阶梯</th><th>价格</th>
+                            <th width="270" rowspan="15" class="th-section">多媒体处理</th><th width="260">名目</th><th width="290">阶梯</th><th>价格</th>
                         </tr>
                         <tr class="table-linesep"><td colspan="4"><div></div></td></tr>
                         <tr>
@@ -161,7 +161,11 @@
                         </tr>
                         <tr class="table-linesep"><td colspan="3"><div></div></td></tr>
                         <tr>
-                            <th rowspan="4">其他请求</th>
+                            <th rowspan="5">其他请求</th>
+                            <td>imageslim（图片瘦身）</td>
+                            <td>0.1 元/千次</td>
+                        </tr>
+                        <tr>
                             <td>avconcat（音视频拼接）</td>
                             <td>0.1 元/千次</td>
                         </tr>
