@@ -118,7 +118,7 @@
                     <ul>
                         <li><h4>开发者工具</h4></li>
                         <li><a href="http://developer.qiniu.com/code/v6/tool/qrsctl.html" target="_blank">命令行辅助工具</a></li>
-                        <li><a href="http://developer.qiniu.com/article/dora/ufop/ufop-cli.html" target="_blank">命令行工具 qufopctl</a></li>
+                        <li><a href="http://developer.qiniu.com/article/dora/ufop/v2/qdoractl.html" target="_blank">命令行工具 qdoractl</a></li>
                         <li><a class="link-more link-developer-help" href="http://developer.qiniu.com/resource/official.html#tool" target="_blank">更多工具</a></li>
                     </ul>
                 </nav>

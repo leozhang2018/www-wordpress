@@ -1,12 +1,12 @@
 <?php /* Template Name: 价格 */ get_header(); ?>
-	<div id="container">
+    <div id="container">
         <!--hero star-->
-		<section class="content hero hero-price">
-			<div class="center">
+        <section class="content hero hero-price">
+            <div class="center">
                 <h1 class="h1-page-heading">七牛云价格方案</h1>
                 <p class="hero-text">七牛云为您提供的不止优秀的产品，还有极具竞争力的产品定价。</p>
-			</div>
-		</section>
+            </div>
+        </section>
         <!--hero end-->
 
         <!--product-pricing star-->
@@ -55,13 +55,17 @@
                         </tr>
                         <tr class="table-linesep"><td colspan="3"><div></div></td></tr>
                         <tr>
-                            <th rowspan="2">PUT / DELETE 请求</th>
+                            <th rowspan="3">PUT / DELETE 请求</th>
                             <td>第 0 千次至 10 万次</td>
                             <td>免费</td>
                         </tr>
-                         <tr>
+                        <tr>
                             <td>第 10 万次以上</td>
-                            <td>0.01 元/千次</td>
+                            <td>0.01 元/千次（2016-12-31 前的账单按此价格出账）</td>
+                        </tr>
+                        <tr>
+                            <td>第 10 万次以上</td>
+                            <td>0.001 元/千次（2017-01-01 起生效此价格）</td>
                         </tr>
                         <tr class="table-linesep"><td colspan="3"><div></div></td></tr>
                          <tr>
@@ -127,7 +131,7 @@
                     <table width="1060" border="0" cellpadding="0" cellspacing="0" class="pricing-table">
                        <tbody>
                        <tr>
-                            <th width="270" rowspan="15" class="th-section">多媒体处理</th><th width="260">名目</th><th width="290">阶梯</th><th>价格</th>
+                            <th width="270" rowspan="16" class="th-section">多媒体处理</th><th width="260">名目</th><th width="290">阶梯</th><th>价格</th>
                         </tr>
                         <tr class="table-linesep"><td colspan="4"><div></div></td></tr>
                         <tr>
@@ -161,7 +165,7 @@
                         </tr>
                         <tr class="table-linesep"><td colspan="3"><div></div></td></tr>
                         <tr>
-                            <th rowspan="5">其他请求</th>
+                            <th rowspan="6">其他请求</th>
                             <td>imageslim（图片瘦身）</td>
                             <td>0.1 元/千次</td>
                         </tr>
@@ -177,20 +181,51 @@
                             <td>imageAve（图片主色调）</td>
                             <td>0.1 元/千次</td>
                         </tr>
-                         <tr>
+                        <tr>
                             <td>vframe, vsample（视频截图）</td>
                             <td>0.1 元/千次</td>
+                        </tr>
+                        <tr>
+                            <td>qhash（文件 HASH 值）</td>
+                            <td>0.05 元/GB</td>
                         </tr>
                         <tr class="table-section-sep"><td colspan="4"><div></div></td></tr>
                     </tbody>
                     </table>
                     <table width="1060" border="0" cellpadding="0" cellspacing="0" class="pricing-table">
                         <tr>
-                            <th width="270" rowspan="40" class="th-section">第三方数据处理</th><th width="260">服务名称</th><th width="290">范围</th><th colrow="2" width="140">价格</th>
+                            <th width="270" rowspan="61" class="th-section">第三方数据处理</th><th width="260">服务名称</th><th width="290">范围</th><th colrow="2" width="140">价格</th>
                         </tr>
                         <tr class="table-linesep"><td colspan="4"><div></div></td></tr>
                         <tr>
-                            <th rowspan="5">图片鉴黄</th>
+                            <th rowspan="5">图片鉴黄 - 阿塔科技</th>
+                            <td>-</td>
+                            <td width="40"><span style="font-weight:500">确定部分价格</span></td>
+                            <td width="100"><span style="font-weight:500">不确定部分价格</span></td>
+                        </tr>
+                        <tr>
+                            <td>第 0 次 至 300 万次</td>
+                            <td>0.23 元/百次</td>
+                            <td>0.0625 元/百次</td>
+                        </tr>
+                        <tr>
+                            <td>第 300 万次 至 1500 万次</td>
+                            <td>0.21 元/百次</td>
+                            <td>0.0575 元/百次</td>
+                        </tr>
+                        <tr>
+                            <td>第 1500 万次 至 3000 万次</td>
+                            <td>0.19 元/百次</td>
+                            <td>0.0525 元/百次</td>
+                        </tr>
+                        <tr>
+                            <td>3000 万次以上</td>
+                            <td>0.16 元/百次</td>
+                            <td>0.045 元/百次</td>
+                        </tr>
+                        <tr class="table-linesep"><td colspan="4"><div></div></td></tr>
+                        <tr>
+                            <th rowspan="5">图片鉴黄 - 图普科技</th>
                             <td>-</td>
                             <td width="40"><span style="font-weight:500">确定部分价格</span></td>
                             <td width="100"><span style="font-weight:500">不确定部分价格</span></td>
@@ -214,6 +249,48 @@
                             <td>3000 万张以上</td>
                             <td>0.18 元/百张</td>
                             <td>0.045 元/百张</td>
+                        </tr>
+                        <tr class="table-linesep"><td colspan="4"><div></div></td></tr>
+                        <tr>
+                            <th rowspan="6">图片鉴黄 - 深图科技</th>
+                            <td>-</td>
+                            <td width="40"><span style="font-weight:500">确定部分价格</span></td>
+                            <td width="100"><span style="font-weight:500">不确定部分价格</span></td>
+                        </tr>
+                        <tr>
+                            <td>第 0 张 至 500 万张</td>
+                            <td>0.15 元/百张</td>
+                            <td>0.0375 元/百张</td>
+                        </tr>
+                        <tr>
+                            <td>第 300 万张 至 3000 万张</td>
+                            <td>0.14 元/百张</td>
+                            <td>0.035 元/百张</td>
+                        </tr>
+                        <tr>
+                            <td>第 3000 万张 至 6000 万张</td>
+                            <td>0.13 元/百张</td>
+                            <td>0.0325 元/百张</td>
+                        </tr>
+                        <tr>
+                            <td>第 6000 万张 至 12000 万张</td>
+                            <td>0.12 元/百张</td>
+                            <td>0.03 元/百张</td>
+                        </tr>
+                        <tr>
+                            <td>12000 万张以上</td>
+                            <td>0.10 元/百张</td>
+                            <td>0.025 元/百张</td>
+                        </tr>
+                        <tr class="table-linesep"><td colspan="4"><div></div></td></tr>
+                        <tr>
+                            <th rowspan="2">图片鉴黄 - 网易网盾</th>
+                            <td>检测量 ≤ 50 万/天</td>
+                            <td colrow="2">0.25 元/百张</td>
+                        </tr>
+                        <tr>
+                            <td>检测量 > 50 万/天</td>
+                            <td colrow="2">0.18 元/百张</td>
                         </tr>
                         <tr class="table-linesep"><td colspan="4"><div></div></td></tr>
                         <tr>
@@ -339,8 +416,99 @@
                             <td>阅面人脸关键点定位</td>
                             <td colrow="2">1.5 元/千次</td>
                         </tr>
-                        <tr class="table-section-sep"><td colspan="4"><div></div></td></tr>
+
+                        <tr class="table-linesep"><td colspan="4"><div></div></td></tr>
+                        <tr>
+                            <th rowspan="2">网易网盾文本反垃圾</th>
+                            <td>第 0 条 至 50 万条</td>
+                            <td colrow="2">3.5 元/千条</td>
+                        </tr>
+                        <tr>
+                            <td>第 50 万条以上</td>
+                            <td colrow="2">1.8 元/千条</td>
+                        </tr>
+                        <tr class="table-linesep"><td colspan="4"><div></div></td></tr>
+                        <tr>
+                            <th>达观垃圾评论过滤</th>
+                            <td>固定价格</td>
+                            <td>3 元/千次</td>
+                        </tr>
+                        <tr class="table-section-sep"><td colspan="5"><div></div></td></tr>
                     </table>
+
+                    <table width="1060" border="0" cellpadding="0" cellspacing="0" class="pricing-table">
+                        <tr>
+                            <th width="270" rowspan="13" class="th-section">自定义数据处理 V2<br><span style="font-size:12px;width:450px;line-height:18px">* 选择 C1M1 的标准用户和 高级用户，每月有 750 小时的免费额度。</span></th><th width="260">规格</th><th width="280">内存/CPU/系统盘</th><th colrow="2" width="150">价格</th>
+                        </tr>
+                        <tr class="table-linesep"><td colspan="4"><div></div></td></tr>
+                        <tr>
+                            <td>-</td>
+                            <td>-</td>
+                            <td width="40"><span style="font-weight:500">按需算（每小时）</span></td>
+                            <td width="110"><span style="font-weight:500">按月算（30 天）</span></td>
+                        </tr>
+                        <tr>
+                            <td>C1M1</td>
+                            <td>1 GB / 1 Core / 20 GB</td>
+                            <td>0.0815 元/小时</td>
+                            <td>58.68 元/月</td>
+                        </tr>
+                        <tr>
+                            <td>C2M2</td>
+                            <td>2 GB / 2 Core / 20 GB</td>
+                            <td>0.1631 元/小时</td>
+                            <td>117.432 元/月</td>
+                        </tr>
+                        <tr>
+                            <td>C2M4</td>
+                            <td>4 GB / 2 Core / 20 GB</td>
+                            <td>0.1671 元/小时</td>
+                            <td>120.312 元/月</td>
+                        </tr>
+                        <tr>
+                            <td>C4M4</td>
+                            <td>4 GB / 4 Core / 20 GB</td>
+                            <td>0.3081 元/小时</td>
+                            <td>221.832 元/月</td>
+                        </tr>
+                        <tr>
+                            <td>C4M8</td>
+                            <td>8 GB / 4 Core / 20 GB</td>
+                            <td>0.3161 元/小时</td>
+                            <td>227.592 元/月</td>
+                        </tr>
+                        <tr>
+                            <td>C8M8</td>
+                            <td>8 GB / 8 Core / 20 GB</td>
+                            <td>0.6161 元/小时</td>
+                            <td>443.592 元/月</td>
+                        </tr>
+                        <tr>
+                            <td>C8M16</td>
+                            <td>16 GB / 8 Core / 20 GB</td>
+                            <td>0.6321 元/小时</td>
+                            <td>455.112 元/月</td>
+                        </tr>
+                        <tr>
+                            <td>C16M16</td>
+                            <td>16 GB / 16 Core / 20 GB</td>
+                            <td>1.1597 元/小时</td>
+                            <td>834.984 元/月</td>
+                        </tr>
+                        <tr>
+                            <td>C16M32</td>
+                            <td>32 GB / 16 Core / 20 GB</td>
+                            <td>1.1917 元/小时</td>
+                            <td>858.024 元/月</td>
+                        </tr>
+                        <tr>
+                            <td>C4M2</td>
+                            <td>2 GB / 4 Core / 20 GB</td>
+                            <td colrow="2"><a href="https://support.qiniu.com/question" target="_blank">提工单</a> 咨询价格详情</td>
+                        </tr>
+                        <tr class="table-section-sep"><td colspan="5"><div></div></td></tr>
+                    </table>
+
                     <table width="1060" border="0" cellpadding="0" cellspacing="0" class="pricing-table">
                         <tr>
                             <th width="270" rowspan="9" class="th-section">自定义数据处理</th><th width="260">规格</th><th width="290">配置</th><th>价格</th>
@@ -382,6 +550,8 @@
                             <td>4 元/小时</td>
                         </tr>
                     </table>
+
+
                 </section>
             </div>
         </section>
@@ -443,5 +613,5 @@
         </section>
         <!--page-links end-->
 
-	</div>
+    </div>
 <?php get_footer();?>

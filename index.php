@@ -22,7 +22,7 @@
                 <div class="slide" data-blurred="<?php bloginfo('template_url');?>/images/slide/eco.jpg">
                     <h3>七牛 Live 生态计划启动</h3>
                     <p>这个时代，图片虽不会消亡，但已经成为过去。<br/>这个时代，直播与视频成为主角。<br/>这个时代，交互代表着生动，实时，自然。<br/>欢迎进入 Live 时代。</p>
-                    <a class="btn btn-normal" href="http://www.qiniu.com/cooperation" target="_blank">进入 Live 时代</a>
+                    <a class="btn btn-normal" href="http://hd.qiniu.com/cooperation" target="_blank">进入 Live 时代</a>
                 </div>
             </div>
         </div>

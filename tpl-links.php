@@ -69,7 +69,7 @@
                         <a href="https://leancloud.cn/" target="_blank"><img src="<?php bloginfo('template_url');?>/images/partners/leancloud.png" width="95" height="15"/></a>
                     </li>
                      <li>
-                        <a href="http://www.mikecrm.com/index.php" target="_blank"><img src="<?php bloginfo('template_url');?>/images/partners/maike.png" width="80" height="19"/></a>
+                        <a href="http://www.mikecrm.com/index.php" target="_blank"><img src="https://oerugfbxb.qnssl.com/maike.png" width="87" height="22"/></a>
                     </li>
                      <li>
                         <a href="https://www.mingdao.com/" target="_blank"><img src="<?php bloginfo('template_url');?>/images/partners/mingdao.png" width="47" height="23"/></a>

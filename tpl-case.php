@@ -169,12 +169,6 @@
                                 <li>
                                     <a href="http://shengri.cn" target="_blank"><img src="<?php bloginfo('template_url');?>/images/case/fashion/birthdaymanager.png" width="46" height="31" /></a>
                                 </li>
-                                <li>
-                                    <a href="http://www.smarun.com/app.html" target="_blank"><img src="<?php bloginfo('template_url');?>/images/case/fashion/smarun.png" width="46" height="31" /></a>
-                                </li>
-                                <li>
-                                    <a href="http://www.sythealth.com/" target="_blank"><img src="<?php bloginfo('template_url');?>/images/case/fashion/sythealth.png" width="46" height="31" /></a>
-                                </li>
                             </ul>
                         </section>
                         <section id="tab-content-section-3">
@@ -260,6 +254,12 @@
                                 </li>
                                 <li>
                                     <a href="http://d.51yund.com/" target="_blank"><img src="<?php bloginfo('template_url');?>/images/case/health/yuedongquan.png" width="92" height="27" /></a>
+                                </li>
+                                <li>
+                                    <a href="http://www.smarun.com/app.html" target="_blank"><img src="<?php bloginfo('template_url');?>/images/case/fashion/smarun.png" width="40" height="40" /></a>
+                                </li>
+                                <li>
+                                    <a href="http://www.sythealth.com/" target="_blank"><img src="<?php bloginfo('template_url');?>/images/case/fashion/sythealth.png" width="40" height="40" /></a>
                                 </li>
                             </ul>
                         </section>
@@ -395,7 +395,7 @@
                             <p class="team-text">中兴智能家居产品依托七牛云服务，向用户提供音视频云存储、检索、分享等衍生增值服务，七牛的专业团队为海量数据的安全性及稳定性提供了有力保障。</p>
                         </section>
                         <section id="tab-evaluation-section-4">
-                            <h3>李兴波<span>海康威视萤石云平台技术总监</span></h3>
+                            <h3>李兴波<span>萤石云平台技术总监</span></h3>
                             <p class="team-text">在和七牛合作的这几年中，深刻的感受到七牛的的确确是一家做“云服务”的公司。作为技术产品服务供应商，在技术和服务品质上有一贯的追求是七牛的核心竞争力，同时在七牛的各个方面都同时体现着另种竞争力——对服务的理解。这就是除技术和产品等硬性表现外，赢的合作伙伴信任更为重要的基础。</p>
                         </section>
                          <section id="tab-evaluation-section-5">

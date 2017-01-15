@@ -4,7 +4,7 @@ Theme URI:http://nicohsueh.com/
 Author:Nico Hsueh
 Author URI:http://nicohsueh.com/
 Description:Earthshaker
-Version:1.01
+Version:1.012
 */
 
 
@@ -3692,7 +3692,16 @@ a.logo-footer {
     background-repeat: no-repeat;
     background-size: 30px 35px;
 }
-
+.iso-logo {
+    display: block;
+    width: 35px;
+    height: 35px;
+    background-image: url(images/iso27001.png);
+    background-repeat: no-repeat;
+    background-size: 30px 35px;
+    float: right;
+    margin-right: 20px
+}
 .copyright {
     float: left;
     margin-right: 30px

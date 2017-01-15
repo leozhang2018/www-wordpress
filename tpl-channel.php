@@ -5,7 +5,7 @@
       <section class="content-cooperation">
         <div class="wrap">
           <h1 class="h1-page-heading">渠道合作</h1>
-          <p class="hero-text clear-bottom">七牛云面向广大的代理商企业与个人，提供便捷的服务售卖代理模式。申请加入后，我们的商务经理会及时跟进并与您联系。</p>
+          <p class="hero-text clear-bottom">七牛云面向广大企业与个人，开发渠道合作。申请合作后，我们的商务经理会及时跟进并与您联系。</p>
           <a class="fill-form smoothScroll" href="#section-1">立即申请</a>
         </div>
       </section>

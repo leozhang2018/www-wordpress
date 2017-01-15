@@ -24,7 +24,7 @@
                             </li>
                             <li>
                                 <h6>技术支持</h6>
-                                <a href="mailto:support@qiniu.com">support@qiniu.com</a>
+                                <a href="https://support.qiniu.com/question" target="_blank">https://support.qiniu.com/question</a>
                             </li>
                         </ul>
                     </div>
